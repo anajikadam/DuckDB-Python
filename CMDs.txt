@@ -1,0 +1,17 @@
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe -m venv Venv_DuckDB_Python311
+Venv_DuckDB_Python311\Scripts\activate
+(Venv_DuckDB_Python311) G:\SQL_python\DuckDB_Python>python
+Python 3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+
+pip install pandas
+pip install numpy
+pip install duckdb
+
+
+jupyter notebook
+
+python -m ipykernel install --user --name=Venv_DuckDB_Python311
+
+
